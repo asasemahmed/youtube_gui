@@ -1,2 +1,2 @@
 # youtube_gui
-youtube download vedio -> gui app
+that is gui app for download youtube vedio by any quality
